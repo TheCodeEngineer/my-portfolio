@@ -1,5 +1,7 @@
 # My React App - Portfolio
 
+Junior Software Engineer | Java Platform Enterprise Edition (Java EE 8) | Liferay DXP 7.2 Front-End Developer | Java 8 Programming (Java SE 8) | IBM Certified Solution Developer – Integration Bus V10.0 | Constructing and Coding of Plugins | Quality Assurance of Plugins | I believe in my capabilities because I know I can excel given the opportunity. I don't comment on bad code - I rewrite it.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -10,9 +12,11 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+
+### `View Live Priject`
+https://bongani-online-cv.netlify.app/
 
 ### `npm test`
 
